@@ -1,0 +1,404 @@
+h1 {
+  color: black;
+    font-size: 15px;
+}
+
+h16 {
+  font-size: 15px;
+  color: lightgrey;
+}
+
+h17 {
+  font-size: 15px;
+  color: black;
+}
+
+h18 {
+  font-size: 15px;
+  color: lightgrey;
+}
+
+
+
+  h2 {
+    position: absolute;
+    top: 250px;
+    left: 500px;
+    color: white;
+    font-size: 40px
+
+  }
+
+h3 {
+  position: absolute;
+  top: 290px;
+  left: 465px;
+  color: white;
+  font-size: 40px;
+}
+
+.box {
+  position: reletive;
+   width: 250px;
+  height: 140px;
+  float: right;
+  margin: 10px;
+  margin-bottom: 0px;
+
+}
+
+h4 {
+ position: absolute;
+  margin-left: 175px;
+  margin-top: 25px;
+  color: white;
+
+}
+
+h5 {
+  position: absolute;
+  margin-left: 175px;
+  margin-top: 40px;
+  color: white;
+font-size: 75px;
+}
+
+h6 {
+ position: absolute;
+  margin-left: 175px;
+  margin-top: 120px;
+  color: white;
+font-size: 15px;
+}
+
+h7 {
+  position: absolute;
+  margin-left: 425px;
+  margin-top: 25px;
+  color: white;
+}
+
+h8 {
+  position: absolute;
+  margin-left: 425px;
+  margin-top: 40px;
+  color: white;
+font-size: 75px;
+}
+
+h9 {
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 120px;
+  color: white;
+font-size: 15px;
+}
+
+h10 {
+  position: absolute;
+  margin-left: 715px;
+  margin-top: 25px;
+  color: white;
+}
+
+h11 {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 40px;
+  color: white;
+font-size: 75px;
+}
+
+h12 {
+  position: absolute;
+  margin-left: 715px;
+  margin-top: 120px;
+  color: white;
+font-size: 15px;
+}
+
+h13 {
+  position: absolute;
+  margin-left: 185px;
+  margin-top: 160px;
+  color: black;
+}
+
+h14 {
+  position: absolute;
+  margin-left: 455px;
+  margin-top: 160px;
+  color: black;
+}
+
+h15 {
+ position: absolute;
+  margin-left: 730px;
+  margin-top: 160px;
+  color: black;
+}
+
+h19 {
+  position: absolute;
+  margin-left: 155px;
+  margin-top: 200px;
+  color: black;
+}
+
+h20 {
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 245px;
+  color: black;
+}
+
+h21 {
+ position: absolute;
+  margin-left: 160px;
+  margin-top: 285px;
+  color: black;
+}
+
+h22 {
+   position: absolute;
+  margin-left: 175px;
+  margin-top: 330px;
+  color: black;
+}
+
+h23 {
+
+   position: absolute;
+  margin-left: 145px;
+  margin-top: 370px;
+  color: black;
+}
+
+h24 {
+  position: absolute;
+  margin-left: 185px;
+  margin-top: 445px;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+h25 {
+  position: absolute;
+  margin-left: 420px;
+  margin-top: 200px;
+  color: black;
+}
+
+h26 {
+  position: absolute;
+  margin-left: 405px;
+  margin-top: 245px;
+  color: black;
+}
+
+h27 {
+  position: absolute;
+  margin-left: 435px;
+  margin-top: 285px;
+  color: black;
+}
+
+h28 {
+  position: absolute;
+  margin-left: 445px;
+  margin-top: 325px;
+  color: black;
+}
+
+h29 {
+   position: absolute;
+  margin-left: 420px;
+  margin-top: 370px;
+  color: black;
+}
+
+h30 {
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 445px;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+h31 {
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 200px;
+  color: black;
+}
+
+h32 {
+  position: absolute;
+  margin-left: 680px;
+  margin-top: 245px;
+  color: black;
+}
+
+h33 {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 285px;
+  color: black;
+}
+
+h34 {
+   position: absolute;
+  margin-left: 720px;
+  margin-top: 330px;
+  color: black;
+}
+
+h35 {
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 370px;
+  color: black;
+}
+
+h36 {
+  position: absolute;
+  margin-left: 735px;
+  margin-top: 445px;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.green {
+  background-color: black;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.purple {
+  background-color: purple;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.black {
+  background-color: green;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.boxes {
+  width: 250px;
+    height: 240px;
+  float: right;
+  margin: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+ }
+
+
+.lightgrey {
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.lightgrey1 {
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.lightgrey2 {
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.whitebox {
+  width: 250px;
+  height: 100px;
+  float: right;
+  margin: 10px;
+  margin-top: 0px;
+}
+
+.white {
+background-color: white;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.white1 {
+  background-color: white;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.white2 {
+  background-color: white;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+h37 {
+
+  font-size: 20px;
+  margin: 100px;
+  margin-top: 150px;
+  color: black;
+
+}
+
+p {
+  margin-top: 0px;
+    margin-right: 300px;
+      margin-left: 510px;
+  font-size: 16px;
+}
+
+p {
+   margin-top: 0px;
+    margin-right: 700px;
+      margin-left: 110px;
+  font-size: 16px;
+}
+
+h38 {
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: 150px;
+  color: black;
+}
+
+h39 {
+   font-size: 20px;
+  margin-left: 100px;
+  margin-top: 150px;
+  color: black;
+}
+
+h40 {
+
+  font-size: 20px;
+  margin-left: 110px;
+  margin-bottom: 100px;
+  color: black;
+}
